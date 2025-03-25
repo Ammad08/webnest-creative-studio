@@ -16,7 +16,7 @@
     --popover: 0 0% 5%;
     --popover-foreground: 0 0% 98%;
 
-    --primary: 217 91% 60%;
+    --primary: 215 84% 46%;
     --primary-foreground: 210 40% 98%;
 
     --secondary: 215 25% 27%;
@@ -57,7 +57,7 @@
   
   .neo-button {
     @apply relative overflow-hidden transition-all duration-300 bg-gradient-to-r from-blue to-blue-light
-           hover:shadow-[0_0_25px_rgba(59,130,246,0.5)] text-white font-medium rounded-lg
+           hover:shadow-[0_0_25px_rgba(43,108,176,0.5)] text-white font-medium rounded-lg
            transform hover:-translate-y-1;
   }
   

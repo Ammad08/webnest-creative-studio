@@ -50,7 +50,7 @@ const Navbar = () => {
             <div className="w-8 h-8 rounded-full bg-gradient-to-r from-blue-light to-blue flex items-center justify-center text-white font-bold">
               W
             </div>
-            <span className="font-display">WebNest Solutions</span>
+            <span className="font-display">WebNest</span>
           </Link>
 
           {/* Desktop Navigation */}

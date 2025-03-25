@@ -57,7 +57,7 @@ const Hero = () => {
           <div className="relative rounded-xl overflow-hidden shadow-2xl border border-white/10">
             <img 
               src="https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d" 
-              alt="WebNest Solutions Project Example" 
+              alt="WebNest Project Example" 
               className="w-full"
               loading="lazy"
             />

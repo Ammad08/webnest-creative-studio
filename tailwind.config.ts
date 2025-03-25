@@ -68,9 +68,9 @@ export default {
           400: "#343434",
         },
         blue: {
-          light: "#63B3ED",
-          DEFAULT: "#3182CE",
-          dark: "#2C5282",
+          light: "#4299E1",
+          DEFAULT: "#2B6CB0",
+          dark: "#1E4E8C",
         },
       },
       borderRadius: {

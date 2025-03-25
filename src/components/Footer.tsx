@@ -110,7 +110,7 @@ const Footer = () => {
         
         <div className="border-t border-dark-300 pt-6 flex flex-col sm:flex-row justify-between items-center">
           <p className="text-muted-foreground text-xs mb-4 sm:mb-0">
-            © {new Date().getFullYear()} WebNest Solutions. All rights reserved.
+            © {new Date().getFullYear()} WebNest. All rights reserved.
           </p>
           
           <div className="flex items-center gap-6">
