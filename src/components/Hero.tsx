@@ -11,7 +11,7 @@ const Hero = () => {
   }, []);
 
   return (
-    <section className="relative pt-28 md:pt-36 pb-20 overflow-hidden bg-dark-100">
+    <section className="relative pt-36 md:pt-44 pb-20 overflow-hidden bg-dark-100">
       {/* Background gradient effects */}
       <div className="absolute top-0 left-0 w-full h-full overflow-hidden pointer-events-none">
         <div className="absolute -top-[30%] -left-[10%] w-[500px] h-[500px] rounded-full bg-blue/10 blur-[120px]" />
